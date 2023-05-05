@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141740848028",
+    "project_id": "brush-teeth-23824",
+    "storage_bucket": "brush-teeth-23824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141740848028:android:d93d7210d4e428bb040e59",
+        "android_client_info": {
+          "package_name": "com.example.brush_teeth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141740848028-lmv8cim215ev2u1edphp3ntcp2ppcovt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0STaDb74efqFuAfEvbGJfRHKvcn-TXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141740848028-lmv8cim215ev2u1edphp3ntcp2ppcovt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
